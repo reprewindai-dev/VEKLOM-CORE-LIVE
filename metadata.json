@@ -1,0 +1,6 @@
+{
+  "name": "Veklom Sovereign AI Hub",
+  "description": "An interactive cockpit and evaluation trace monitor tracking GitHub repo connection, asset packaging, and ArbiterOS deterministic deployment pipelines.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
